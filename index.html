@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <title>Club de dibujo</title>    
+    <script src="./js/data.js" charset="utf-8"></script>
+    <script src="./js/script.js" charset="utf-8"></script>
+    <script src="./js/jquery-1.11.3.min.js" charset="utf-8"></script>
+    <script src="./js/jquery-ui.min.js" charset="utf-8"></script>    
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+
+	<div class="global_container">
+		<div class="list_container"  id="list_container_sujetos">
+			<ul id="sujeto_list"></ul>
+		</div>
+		<div class="list_container" id="list_container_verbos">
+			<ul id="verbo_list"></ul>
+		</div>
+		<div class="list_container" id="list_container_modos">
+			<ul id="modo_list"></ul>
+		</div>		
+	</div>
+
+	<a id="spin" href="javascript:spinAll()">Otro!</a>
+
+	<div id="bonus">
+		<h1>BONUS</h1>
+		<p id="bonus_message"></p>
+	</div>
+
+	<div id="selected_row"></div>
+
+</body>
+</html>
+
+<script>init();</script>
