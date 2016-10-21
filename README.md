@@ -1,8 +1,8 @@
 # No entiendo. ¿Qué es esto?
 
-Es un ejercicio que hice para una clase de dibujo. Se trata de generar escenas aleatorias, dibujarlas todos en clase y compartir.
+Es un ejercicio que hice para una clase de dibujo. Se trata de generar escenas aleatorias, dibujarlas todos en clase y ponerlas en común. Es bastante divertido.
 
-Por supuesto, puedes usarlo para otras cosas. Generar nombres y apellidos aleatorios, o como estímulo para talleres o sesiones de ideación.
+Por supuesto, puedes usarlo para otras cosas: generar nombres y apellidos aleatorios, recetas de cocina atrevidas, como estímulo para talleres o sesiones de ideación, etc.
 
 # Cómo utilizar Scenomatic para tus cosas
 
