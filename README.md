@@ -13,4 +13,8 @@ Por supuesto, puedes usarlo para otras cosas: generar nombres y apellidos aleato
 5. Dale a "Otro!" para generar una nueva escena.
 6. Si le das a la B activas el modo "Bonus" para la siguiente escena generada, con retos adicionales.
 
+# Disclaimer
+
+El código es un horror, solo está probado en Chrome, no es responsive ni nada de eso.
+
 
