@@ -19,5 +19,5 @@ Por supuesto, puedes usarlo para otras cosas: generar nombres y apellidos aleato
 
 El código es un horror, solo está probado en Chrome, no es responsive ni nada de eso.
 
-Sinceramente, no tengo mucha intención de evolucionarlo, mantenerlo, arreglarlo para otros navegadores ni repararlo. Si no funciona lo siento :-(
+Sinceramente, no tengo mucha intención de evolucionarlo, mantenerlo o arreglarlo. Si no funciona lo siento :-(
 
