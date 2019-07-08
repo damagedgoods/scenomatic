@@ -1,23 +1,27 @@
-#Scenomatic
+# Scenomatic
 
-## No entiendo. ¿Qué es esto?
+## What's this?
 
-Es un ejercicio que hice para una clase de dibujo. Se trata de generar escenas aleatorias, dibujarlas todos en clase y ponerlas en común. Es bastante divertido.
- 
-Por supuesto, puedes usarlo para otras cosas: generar nombres y apellidos aleatorios, recetas de cocina atrevidas, como estímulo para talleres o sesiones de ideación, etc.
+Just an experiment I did for a drawing session. The exercise consisted of generating random scenes with the tool and then everybody in the room had to draw them. It's funny.
 
-## Cómo utilizar Scenomatic para tus cosas
+Of course, you can use it as you want: to generate random names & surnames for your future baby, risky cooking recipes, as an stimuli for workshops or ideation sessions, etc.
 
-1. En https://github.com/damagedgoods/scenomatic, dale al botoncito verde donde pone "Clone or download", luego a "Download ZIP".
-2. Descomprime el fichero que se descarga en tu ordenador.
-3. Entra en la carpeta y abre el fichero js/data.js. Edita los sujetos, verbos, etc. como quieras. Solamente ten cuidado en respetar las comillas y las comas. Guarda los cambios.
-4. Abre index.html en tu navegador.
-5. Dale a "Otro!" para generar una nueva escena.
-6. Si le das a la B activas el modo "Bonus" para la siguiente escena generada, con retos adicionales.
+![](./img/sample.gif)
 
-## Disclaimer
+You can test it here: https://damagedgoods.github.io/scenomatic/
 
-El código es un horror, solo está probado en Chrome, no es responsive ni nada de eso.
+## How to use Scenomatic with your own data
 
-Sinceramente, no tengo mucha intención de evolucionarlo, mantenerlo o arreglarlo. Si no funciona lo siento :-(
+1. At https://github.com/damagedgoods/scenomatic, click "Clone or download" and then "Download ZIP".
+2. Unzip the downloaded file.
+3. Edit the file js/data.js. Change "sujetos", "verbos" and "modos" arrays to add or edit values. Just make sure you respect the syntax. Save the changes.
+4. Open index.html in your browser.
+5. Click "Otro!" to generate a new scene.
+6. If you press B you actiavate "Bonus" mode for the next scene, including additional challenges.
+
+## Caveats
+
+Code is horrible. Only tested in Chrome, it's not responsive. :-(
+
+I still don't know if I will be fixing or editing this. Just let me know if you need anything.
 
