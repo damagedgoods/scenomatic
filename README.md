@@ -17,7 +17,7 @@ You can test it here: https://damagedgoods.github.io/scenomatic/
 3. Edit the file js/data.js. Change "sujetos", "verbos" and "modos" arrays to add or edit values. Just make sure you respect the syntax. Save the changes.
 4. Open index.html in your browser.
 5. Click "Otro!" to generate a new scene.
-6. If you press B you actiavate "Bonus" mode for the next scene, including additional challenges.
+6. If you press B the "Bonus" mode is activated for the next scene, including additional challenges.
 
 ## Caveats
 
